@@ -5,6 +5,8 @@
 body{
     background-color: #0f121f;
     background-image: url(/static/stars.png);
+    background-size:cover;
+    background-position:center;
     background-repeat: no-repeat;
     color: #fff;
 }
